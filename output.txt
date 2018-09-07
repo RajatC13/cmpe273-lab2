@@ -1,0 +1,4 @@
+rajat@Friday:~/Desktop/SJSU_Coursework/273/Lab2_extra/grpc/examples/python/calculator$ python3 calculator_client.py
+Enter number one :3
+Enter number two :4
+Calculator client received: Sum is, 7!
